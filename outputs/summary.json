@@ -1,0 +1,49 @@
+{
+  "source": "french",
+  "is_synthetic": false,
+  "start": "2016-01",
+  "end": "2025-12",
+  "n_months": 120,
+  "risk_free_rate_annual": 0.02,
+  "holdout_months": 24,
+  "asset_names": [
+    "NoDur",
+    "Durbl",
+    "Manuf",
+    "Enrgy",
+    "Chems",
+    "BusEq",
+    "Telcm",
+    "Utils",
+    "Shops",
+    "Hlth",
+    "Money",
+    "Other"
+  ],
+  "optimization": "long-only, weights sum to 1, no leverage, in-sample moments",
+  "portfolio_metrics": {
+    "equal": {
+      "annual_return": 0.13382,
+      "annual_volatility": 0.15677818621309822,
+      "sharpe": 0.725993856347413
+    },
+    "minvar": {
+      "annual_return": 0.09695788833044333,
+      "annual_volatility": 0.11987080677850355,
+      "sharpe": 0.642006927280014
+    },
+    "maxsharpe": {
+      "annual_return": 0.19462484644825492,
+      "annual_volatility": 0.16227790150953442,
+      "sharpe": 1.0760851898124595
+    }
+  },
+  "forecast": {
+    "rw_rmse": 0.05120224170130536,
+    "ar1_rmse": 0.04758075794055557,
+    "rw_mae": 0.04147146257562636,
+    "ar1_mae": 0.03820099413170074,
+    "ar1_direction_accuracy": 0.7083333333333334
+  },
+  "model_spec": "random walk in log index (0 predicted log return) vs expanding-window AR(1) on monthly log returns"
+}
