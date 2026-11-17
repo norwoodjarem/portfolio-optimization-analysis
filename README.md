@@ -2,7 +2,7 @@
 
 An empirical quantitative-finance project exploring portfolio construction and return forecasting using **12 Fama–French U.S. industry portfolios**.
 
-**[View the project website]**(https://norwoodjarem.github.io/portfolio-optimization-analysis/)
+- [View the project website](https://norwoodjarem.github.io/portfolio-optimization-analysis/)
 
 ## Data and scope
 
