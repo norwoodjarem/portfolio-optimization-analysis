@@ -1,4 +1,4 @@
-#portfolio-optimization-analysis# Efficient Frontier & Time-Series Forecasting | 12 Industry Portfolios
+# Efficient Frontier & Time-Series Forecasting | 12 Industry Portfolios
 
 An empirical quantitative-finance project exploring portfolio construction and return forecasting using **12 Fama–French U.S. industry portfolios**.
 
