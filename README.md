@@ -25,11 +25,11 @@ The maximum-Sharpe allocation achieved the highest **estimated in-sample** risk-
 
 ## Visualizations
 
-<img width="1620" height="1080" alt="efficient_frontier" src="https://github.com/user-attachments/assets/8d5275a2-bbac-4087-9bfa-f5b1d5f9f5fc" />
+<img width="1620" height="1080" alt="efficient_frontier" src="https://github.com/user-attachments/assets/20148033-5465-4a7d-aff5-c85100076d81" />
 
-<img width="1980" height="972" alt="forecast_comparison" src="https://github.com/user-attachments/assets/cd388563-e391-4083-b0e7-0707a328e934" />
+<img width="1980" height="972" alt="forecast_comparison" src="https://github.com/user-attachments/assets/d223741d-b80e-4af8-9222-b9bb2bf42402" />
 
-<img width="1980" height="1007" alt="portfolio_allocations" src="https://github.com/user-attachments/assets/054e0f94-2ea6-453b-a44c-1a22096904eb" />
+<img width="1980" height="1007" alt="portfolio_allocations" src="https://github.com/user-attachments/assets/d465575e-3efb-45ce-a691-b032f81df359" />
 
 ## Methodology
 
